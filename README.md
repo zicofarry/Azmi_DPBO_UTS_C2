@@ -2,8 +2,6 @@
 
 Saya **Muhammad ‘Azmi Salam** dengan **NIM 2406010** mengerjakan soal **UTS** dalam mata kuliah **Desain Pemrograman Berorientasi Objek (DPBO)** untuk keberkahan-Nya maka saya **tidak melakukan kecurangan** seperti yang telah dispesifikasikan. Aamiin.
 
----
-
 ## Diagram 
 
 **Mahzab desain yang digunakan:**
