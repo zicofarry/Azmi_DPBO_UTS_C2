@@ -1,0 +1,94 @@
+UTS DPBO 2025 C2 Kurikulum Baru
+
+Kerjakan soal berikut dengan menggunakan bahasa pemrograman Java.
+Diberikan kelas-kelas berikut (Tema: Ketahanan Pangan)
+
+
+PerikananKomersil
+- kode
+- nama
+- kota
+- luas (dalam meter persegi)
+- daftarikan (list ikan yang dipelihara)
+- jumlah karyawan
+
+
+RumahSwasembadaPangan
+- kode
+- namapemilik
+- daftarternak (daftar ternak yang dipelihara)
+- daftarikan (daftar ikan yang dipelihara)
+- daftarsayurrempah (daftar sayur rempah yang ditanam)
+- kota
+- luas (dalam meter persegi)
+
+
+PemilikPeternakanKomersil
+- noKTP
+- nama
+- alamat
+- daftarpeternakankomersil (daftar peternakan komersil yang dimiliki)
+
+
+PelakuRumahSwasembada
+- noKTP
+- nama
+- alamat
+
+
+Ikan
+- kode
+- nama
+- jenis (ikan konsumsi atau ikan hias)
+- beratkonsumsi (diisi jika ikan konsumsi)
+- lamapemeliharaan (lama pemeliharaan sampai mencapai berat konsumsi atau layak jual sebagai ikan hias)
+
+
+TernakBahanPangan
+- kode
+- nama
+- beratkonsumi
+- lamapemeliharaan (lama pemeliharaan sampai mencapai berat konsumsi dalam satuan bulan)
+
+
+PemilikPerikananKomersil
+- noKTP
+- nama
+- alamat
+- daftarperikanankomersil (daftar perikanan komersil yang dimiliki)
+
+
+SayurRempah
+- kode
+- nama
+- jenis (sayur/rempah)
+
+
+PeternakanKomersil
+- kode
+- nama
+- kota
+- luaspeternakan (dalam meter persegi)
+- daftarternak (list ternak yang diternakkan)
+- jumlah karyawan
+
+
+
+Buatlah desain relasi antar kelas di atas menggunakan konsep inner class (opsional), komposisi/asosiasi/agregasi (wajib), inheritance (wajib), interface/ kelas abstrak (wajib memakai salah satu) dan sertakan alasannya (bisa show off kemampuan inheritance, interface/kelas abstrak untuk nilai sempurna). Implementasikan semua kelas-kelas di atas sesuai desain yang dibuat.
+
+
+Buatlah kelas Main yang menampilkan semua data dengan hubungannya (silakan mendesain hubungan antar kelas untuk ditampilkan, desain hubungan dapat dimasukkan dalam pdf). Main dapat menampilkan semua data hardcode dimana data hardcode dimasukkan dalam array objek. Data yang ada dalam array object minimal 2, kemudian Main dapat menerima masukan dari data utama (jelaskan pada desain, apa yang dapat dilakukan pencarian untuk menampilkan semua data yang terhubung) untuk selanjutnya dapat menampilkan data yang sesuai sebagai hasil pencarian.
+
+
+Semua kelas memiliki metode get set dan komentar.
+
+
+Semua peraturan pada mata kuliah pemrograman tetap berlaku kecuali yang ditimpa peraturan di soal ini (termasuk ada penulisan janji setia pada kejujuran).
+
+
+File yang dikumpulkan dalam zip/rar adalah:
+
+- File (pdf) yang berisi janji setia pada kejujuran, desain, penjelasan alasan gambar desain, screen shot tampilan program
+- Implementasi kode program (tanpa .class) 
+
+zip/rar diberi nama sama dengan subjek email dan dikirim ke email rosa.ariani@upi.edu dengan subjek Nama DPBO UTS Kelas contoh Rosa DPBO UTS C2 dengan batas waktu pukul 13.45 waktu upi.edu. Setiap keterlambatan 1 menit akan mendapatkan diskon nilai 2 point.
